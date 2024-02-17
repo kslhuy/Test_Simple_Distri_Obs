@@ -1,0 +1,6 @@
+function [outputArg1,outputArg2] = system(inputArg1,inputArg2)
+
+
+xdot
+end
+
