@@ -10,3 +10,8 @@
 
 
 The same results , found in "A Simple Approach to Distributed Observer Design for Linear Systems"
+## Error 1 , Fig4 in the paper
+![eror1](image/e1.png)
+## Error 2 , Fig5 in the paper
+![eror1](image/e2.png)
+
